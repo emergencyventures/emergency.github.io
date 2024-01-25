@@ -10,4 +10,7 @@
     Emergency builds technology to connect and serve citizens, volunteers, and emergency managers in natural disasters. This web application is a situational awareness tool for citizens before, during, and after a natural disaster event.
   </div>
 
+  <a mailto="team@emergency.company">
+    team@emergency.company
+  </a>
 </div>
