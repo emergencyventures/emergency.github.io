@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://app.emergency.company">
-    <img src="/logo.png" alt="Logo" height="60">
+    <img src="logo.png" alt="Logo" height="60">
   </a>
   <h2 align="center">Emergency Web App</h2>
 
