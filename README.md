@@ -1,4 +1,4 @@
-<div id="top" style="justify-content: center; background-color: #020202">
+<div id="top" style="justify-content: center;">
   <div align="center">
     <a href="https://app.emergency.company">
       <img src="logo.png" alt="Logo" height="150">
