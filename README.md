@@ -1,7 +1,7 @@
 <div id="top" style="justify-content: center;">
   <div align="center">
     <a href="https://app.emergency.company">
-      <img src="logo.png" alt="Logo" height="150">
+      <img src="/src/assets/logo.png" alt="Logo" height="150">
     </a>
     <h1 align="center">Emergency App</h1>
   </div>
